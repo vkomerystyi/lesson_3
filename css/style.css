@@ -1,0 +1,25 @@
+h1,
+p {
+    color: rgb(23, 19, 214);
+}
+a {
+    color: blue;
+}
+.text p {
+    color: gray;
+}
+.text ~ p {
+    color: red;
+}
+.text.man {
+    color: rgb(82, 172, 9);
+}
+.junior + p {
+    color: brown;
+}
+#books {
+    color: chocolate;
+}
+.list-item li {
+    color: cadetblue;
+}
